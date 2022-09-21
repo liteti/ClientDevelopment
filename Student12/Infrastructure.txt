@@ -1,0 +1,26 @@
+
+Unique username: student12
+
+GitHub secrets:
+REGISTRY_LOGIN_SERVER identityserveracr2.azurecr.io
+REGISTRY_PASSWORD     0x=FwWERAPibRaY5Km6YuIjqtXcw28Ac
+REGISTRY_USERNAME     IdentityServerACR2
+USERNAME              student12
+
+HTTP Urls
+- http://student12-client.northeurope.azurecontainer.io
+
+Container registry
+- URL:      identityserveracr2.azurecr.io
+- UserName: IdentityServerACR2
+- Password: 0x=FwWERAPibRaY5Km6YuIjqtXcw28Ac
+
+seq-logging server
+- URL:      http://tndata-logging12.northeurope.azurecontainer.io
+
+
+Azure portal login
+- Url:      https://portal.azure.com
+- Login:    student12@infotndata.onmicrosoft.com
+- Password: Mysecretpassword2022
+
