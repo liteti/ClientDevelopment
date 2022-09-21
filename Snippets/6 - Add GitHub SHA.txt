@@ -1,0 +1,1 @@
+environment-variables: ASPNETCORE_ENVIRONMENT=Production GITHUB__SHA=${{ github.sha }}
